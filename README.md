@@ -61,7 +61,7 @@ Prerequisites
 - Case sensitivity can cost you hours. The Arduino was reading "Clear" instead of "CLEAR", which meant the components never reset to their zero position when an object moved away. After hours of debugging, that one character difference was the entire problem.
 - PWM enables proportional hardware response. Instead of just turning components on/off, analogWrite() lets you control intensity. Combined with Arduino's map() and constrain() functions, the hardware response scales smoothly with distance.
 
-Demo
+## Demo
 Photos and video coming soon
 
 # About
