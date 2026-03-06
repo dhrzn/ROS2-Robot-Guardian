@@ -63,6 +63,11 @@ Prerequisites
 
 ## Demo
 Photos and video coming soon
+![IMG_3909](https://github.com/user-attachments/assets/ca9b78f2-19c1-430b-94a3-285ef22f81c0)
+![IMG_3910](https://github.com/user-attachments/assets/957f9d50-4f6c-4ce5-9d85-5f84cd38afb7)
+![IMG_3911](https://github.com/user-attachments/assets/129d65d3-6866-41a6-920a-d9eac72dddec)
+![IMG_3915](https://github.com/user-attachments/assets/a8cfbb20-e634-496a-89b3-9e59f17e8b79)
+![IMG_3914](https://github.com/user-attachments/assets/b8238541-dc33-4a82-b8c7-840811f909e6)
 
 # About
 Built as part of my robotics portfolio while studying at CSULB, working toward becoming a robotics software engineer.
