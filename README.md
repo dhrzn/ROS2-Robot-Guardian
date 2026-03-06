@@ -69,5 +69,12 @@ Photos and video coming soon
 ![IMG_3915](https://github.com/user-attachments/assets/a8cfbb20-e634-496a-89b3-9e59f17e8b79)
 ![IMG_3914](https://github.com/user-attachments/assets/b8238541-dc33-4a82-b8c7-840811f909e6)
 
+https://github.com/user-attachments/assets/2495a9f8-35b9-43ac-867a-a88d62d25d64
+
+
+Uploading IMG_3912.mov…
+
+
+
 # About
 Built as part of my robotics portfolio while studying at CSULB, working toward becoming a robotics software engineer.
